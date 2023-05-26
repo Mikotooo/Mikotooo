@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mikoto! <br/><a href="https://https://github.com/Mikotooo">Developer</a>, <a href="[https://www.linkedin.com/in/joshmadakorhttps://www.linkedin.com/in/jan-stanlee-achumbre-53618b234/)/">BS Information Techology</a>,</a></h1>
+<h1>Hi, I'm Jan Stanlee Achumbre! <br/><a href="https://https://github.com/Mikotooo">Developer</a>, <a href="[https://www.linkedin.com/in/joshmadakorhttps://www.linkedin.com/in/jan-stanlee-achumbre-53618b234/)/">BS Information Techology</a>,</a></h1>
 
 <h2>👨‍💻Software Development Projects:</h2>
 
