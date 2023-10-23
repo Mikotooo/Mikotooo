@@ -12,7 +12,7 @@
   - [Pepito's Dental Clinic]  (Private)
 - <b>System Development(JavaScript, MySQL, React )</b>
   - [Bus Ticketing and Queuing System]  (Private)
-- <b>Web and System Develop(JavaScript, MySQL, React)</b>
+- <b>Web and System Development(JavaScript, MySQL, React)</b>
   - [Esports Production]  (Private)
 
 <h3 align="center">My Languages and Tools:</h3>
