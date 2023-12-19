@@ -19,7 +19,7 @@
   - Season 2 Opening (held at Ayala Terraces) 
   - Season 2 Regular Season (at USPF and TNC Headquarters Cebu)
   - Season 2 Finals (held at IEC Convention Center)
-  ARCHcon 2023 (held at IEC Convention Center)
+  - ARCHcon 2023 (held at IEC Convention Center)
     <h3> CEBU ESPORTS ARENA </h3>
   - 𝐂𝐄𝐀 𝐈𝐧𝐯𝐢𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐬: 𝐂𝐚𝐥𝐥 𝐨𝐟 𝐃𝐮𝐭𝐲: 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐢𝐯𝐢𝐬𝐢𝐨𝐧
   - 𝐂𝐄𝐀 𝐈𝐧𝐯𝐢𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐬: 𝐕𝐚𝐥𝐨𝐫𝐚𝐧𝐭 𝐃𝐢𝐯𝐢𝐬𝐢𝐨𝐧
