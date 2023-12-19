@@ -4,8 +4,6 @@
 
 - <b>Full Stack Web Development (PHP, JavaScript, MySQL, HTML, CSS, WordPress) </b>
   - [Cebu Maritime Expo 2023](https://www.cebumaritimeexpo.com/)
-- <b>Full Stack Web Development (PHP, JavaScript, MySQL, HTML, CSS)</b>
-  - [Maritime Expo 2024](Ongoing Development) <b><i></b></i>
 - <b>Full Stack Web Development(PHP, JavaScript, MySQL, HTML, CSS) </b>
   - [Unnamed Coffee]  (Unpublished)
 - <b>System Development (JavaScript, MySQL)</b>
