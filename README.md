@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jan Stanlee Achumbre! <br/><a href="https://https://github.com/Mikotooo">Developer</a>, <a href="[https://www.linkedin.com/in/jan-stanlee-achumbre-53618b234/)/">BS Information Techology</a>,</a></h1>
 
-<h2>👨‍💻Software Development Projects:</h2>
+<h2>👨‍💻Hi I'm Currently working in DEVGO Studio as a Project Manager and does side projects for fun and learning:</h2>
 
 
 <h3 align="center">My Languages and Tools:</h3>
@@ -8,7 +8,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="Mikoto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[facebook]: https://www.facebook.com/Estamboool
 [instagram]: https://www.instagram.com/mikotochefu
 
